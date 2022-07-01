@@ -1,0 +1,2 @@
+﻿  Odev3.cpp
+C:\Users\samet\OneDrive\Masaüstü\Odev3\Odev3\Odev3\veri.h(37): error C4700: uninitialized local variable 'yeni' used
